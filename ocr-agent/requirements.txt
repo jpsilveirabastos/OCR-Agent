@@ -1,0 +1,6 @@
+langgraph==1.0.1
+langchain-community==0.4.1
+langchain-google-genai==3.0.0
+PyMuPDF==1.26.5
+Pillow==11.3.0
+google-genai==1.59.0
